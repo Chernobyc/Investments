@@ -1,0 +1,47 @@
+C:\Users\opetaja\Downloads\10 - Investments\Investments\bin\Debug\net5.0\Investments.exe
+C:\Users\opetaja\Downloads\10 - Investments\Investments\bin\Debug\net5.0\Investments.deps.json
+C:\Users\opetaja\Downloads\10 - Investments\Investments\bin\Debug\net5.0\Investments.runtimeconfig.json
+C:\Users\opetaja\Downloads\10 - Investments\Investments\bin\Debug\net5.0\Investments.runtimeconfig.dev.json
+C:\Users\opetaja\Downloads\10 - Investments\Investments\bin\Debug\net5.0\Investments.dll
+C:\Users\opetaja\Downloads\10 - Investments\Investments\bin\Debug\net5.0\ref\Investments.dll
+C:\Users\opetaja\Downloads\10 - Investments\Investments\bin\Debug\net5.0\Investments.pdb
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\Investments.csprojAssemblyReference.cache
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\Investments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\Investments.AssemblyInfoInputs.cache
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\Investments.AssemblyInfo.cs
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\Investments.csproj.CoreCompileInputs.cache
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\Investments.dll
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\ref\Investments.dll
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\Investments.pdb
+C:\Users\opetaja\Downloads\10 - Investments\Investments\obj\Debug\net5.0\Investments.genruntimeconfig.cache
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\bin\Debug\net5.0\Investments.exe
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\bin\Debug\net5.0\Investments.deps.json
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\bin\Debug\net5.0\Investments.runtimeconfig.json
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\bin\Debug\net5.0\Investments.runtimeconfig.dev.json
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\bin\Debug\net5.0\Investments.dll
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\bin\Debug\net5.0\ref\Investments.dll
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\bin\Debug\net5.0\Investments.pdb
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\Investments.csprojAssemblyReference.cache
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\Investments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\Investments.AssemblyInfoInputs.cache
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\Investments.AssemblyInfo.cs
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\Investments.csproj.CoreCompileInputs.cache
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\Investments.dll
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\ref\Investments.dll
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\Investments.pdb
+C:\Users\opetaja\Downloads\11 - Investments-DataGenerators\Investments\obj\Debug\net5.0\Investments.genruntimeconfig.cache
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\bin\Debug\net5.0\Investments.exe
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\bin\Debug\net5.0\Investments.deps.json
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\bin\Debug\net5.0\Investments.runtimeconfig.json
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\bin\Debug\net5.0\Investments.runtimeconfig.dev.json
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\bin\Debug\net5.0\Investments.dll
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\bin\Debug\net5.0\Investments.pdb
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\Investments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\Investments.AssemblyInfoInputs.cache
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\Investments.AssemblyInfo.cs
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\Investments.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\Investments.dll
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\refint\Investments.dll
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\Investments.pdb
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\Investments.genruntimeconfig.cache
+C:\Users\Nikita\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net5.0\ref\Investments.dll

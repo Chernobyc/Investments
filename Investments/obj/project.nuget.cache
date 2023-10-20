@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRq2qay2hOUbvAPCaI4qCa/v6KNeYimC/J7ifAYFHF84OaGgMcJfFQb6Id6JK1L46tDS03JGNI+UjMeUkbeTYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Investments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.4\\microsoft.netcore.platforms.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
