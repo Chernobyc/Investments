@@ -17,7 +17,7 @@ namespace Investments.Data
 
             decimal msftRate = 331.32m; // Начальное значение курса
             decimal msftVolatility = 0.06m; // Волатильность
-            
+
             DateTime firstDay = DateTime.Parse("2023-01-01 00:00:01");
             int period = (int)(DateTime.Now - firstDay).TotalDays;
             //msft rates

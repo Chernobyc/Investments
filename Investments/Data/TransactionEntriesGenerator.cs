@@ -15,7 +15,7 @@ namespace Investments.Data
         public static void GenerateTransactionEntries(DataContext context)
         {
             var pohikonto = context.Accounts[0]; // oli 1; Swed
-            var lhv = context.Accounts[1]; // oli 0 
+            var lhv = context.Accounts[1]; // oli 0
             var aktsiadLhv = context.Accounts[2];
 
             DateTime transactionTime;

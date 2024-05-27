@@ -146,15 +146,15 @@ namespace Investments.Data
             //context.Transactions.Add(new Transaction { Name = context.Securables[2], Type = TransactionTypeEnum.Transfer, Time = DateTime.Parse("2024-04-06 17:12:39") });
 
 
-           /* 
-            context.Transactions.Add(new Transaction { Name = "18.05.2023 MSFT Buy" , Time = DateTime.Parse("2023-05-18 19:10:00") });
-            context.Transactions.Add(new Transaction { Name = "23.05.2023 MSFT Buy" , Time = DateTime.Parse("2023-05-23 16:50:00") });
-            context.Transactions.Add(new Transaction { Name = "28.05.2023 GOOG Sell", Time = DateTime.Parse("2023-05-28 13:47:00") });
-            context.Transactions.Add(new Transaction { Name = "02.06.2023 AAPL Buy" , Time = DateTime.Parse("2023-06-02 21:20:00") });
-            context.Transactions.Add(new Transaction { Name = "19.06.2023 AAPL Sell", Time = DateTime.Parse("2023-06-19 18:10:00") });
-            context.Transactions.Add(new Transaction { Name = "26.06.2023 GOOG Buy" , Time = DateTime.Parse("2023-06-26 15:59:00") });
-            context.Transactions.Add(new Transaction { Name = "29.06.2023 MSFT Sell", Time = DateTime.Parse("2023-06-29 10:20:00") });
-           */
+            /* 
+             context.Transactions.Add(new Transaction { Name = "18.05.2023 MSFT Buy" , Time = DateTime.Parse("2023-05-18 19:10:00") });
+             context.Transactions.Add(new Transaction { Name = "23.05.2023 MSFT Buy" , Time = DateTime.Parse("2023-05-23 16:50:00") });
+             context.Transactions.Add(new Transaction { Name = "28.05.2023 GOOG Sell", Time = DateTime.Parse("2023-05-28 13:47:00") });
+             context.Transactions.Add(new Transaction { Name = "02.06.2023 AAPL Buy" , Time = DateTime.Parse("2023-06-02 21:20:00") });
+             context.Transactions.Add(new Transaction { Name = "19.06.2023 AAPL Sell", Time = DateTime.Parse("2023-06-19 18:10:00") });
+             context.Transactions.Add(new Transaction { Name = "26.06.2023 GOOG Buy" , Time = DateTime.Parse("2023-06-26 15:59:00") });
+             context.Transactions.Add(new Transaction { Name = "29.06.2023 MSFT Sell", Time = DateTime.Parse("2023-06-29 10:20:00") });
+            */
 
         }
     }
