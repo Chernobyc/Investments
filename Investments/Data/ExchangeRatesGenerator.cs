@@ -16,9 +16,12 @@ namespace Investments.Data
             decimal msftRate = 331.32m; // Начальное значение курса
             decimal msftVolatility = 0.06m; // Волатильность
             
+            DateTime firstDay = DateTime.Parse("2023-01-01 00:00:01");
+            int period = (int)(DateTime.Now - firstDay).TotalDays;
             //msft rates
-            for (int i = 90; i >= 1; i--)
+            for (int i = period; i >= 1; i--)
             {
+                
                 DateTime date = DateTime.Now.AddDays(-i);
                 decimal randomNumber = (decimal)random.NextDouble() * 2 - 1; // Генерирует случайное число между -1 и 1
                 msftRate *= (1 + msftVolatility * randomNumber); // Моделирует изменение курса
@@ -29,7 +32,7 @@ namespace Investments.Data
             decimal aaplRate = 175.46m;
             decimal aaplVolatility = 0.045m;
             //aapl rates
-            for (int i = 90; i >= 1; i--)
+            for (int i = period; i >= 1; i--)
             {
                 DateTime date = DateTime.Now.AddDays(-i);
                 decimal randomNumber = (decimal)random.NextDouble() * 2 - 1; // generates a random num between -1 and 1
@@ -41,7 +44,7 @@ namespace Investments.Data
             decimal googRate = 137.75m;
             decimal googVolatility = 0.0678m;
             //goog rates
-            for (int i = 90; i >= 1; i--)
+            for (int i = period; i >= 1; i--)
             {
                 DateTime date = DateTime.Now.AddDays(-i);
                 decimal randomNumber = (decimal)random.NextDouble() * 2 - 1;

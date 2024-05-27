@@ -2,7 +2,7 @@
 
 namespace Investments.Reporting
 {
-    public class AccountStatementEntry
+    public class AccountStatementEntry //история записей о состоянии аккаунта
     {
         public string TransactionId { get; set; }
         public DateTime Time { get; set; }

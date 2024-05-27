@@ -1,74 +1,119 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 
 namespace Investments.Data
 {
     public static class TransactionEntriesGenerator
     {
+        static Transaction GetNext( IEnumerator<Transaction> transactions)
+        {
+            return transactions.MoveNext() ? transactions.Current : null;
+        }
+
         public static void GenerateTransactionEntries(DataContext context)
         {
-            var pohikonto = context.Accounts[0]; // oli 1
+            var pohikonto = context.Accounts[0]; // oli 1; Swed
             var lhv = context.Accounts[1]; // oli 0 
             var aktsiadLhv = context.Accounts[2];
 
-            /*
-            1 eur
-            2 msft
-            3 aapl
-            4 goog
-            */
+            DateTime transactionTime;
+            var transactions = context.Transactions.AsEnumerable().GetEnumerator(); // хранит список фактических транзакиций и позволяет использовать их с Enumerable
+
+            //foreach (var i in context.Transactions)
+            //{
+            //    transactionTime = i.Time;
+            //    return transactionTime;
+            //};
+            //var firstTrans = context.Transactions[0];
+            //var transactions = context.Transactions;
+            //var infiniteTransactions = InfiniteTransactions(context.Transactions);
+            //Console.WriteLine("{0}", infiniteTransactions.Current.Time);
+            //Console.WriteLine("{0}", infiniteTransactions.Current.Time);
+
+            
+            context.TransactionEntries.Add(new TransactionEntry
+            {
+                TransactionId = "123456789001",
+                Time = context.Transactions[0].Time, // DateTime.Now.AddDays(-90)
+                OwningAccount = lhv,
+                OtherAccount = pohikonto,
+                Amount = 50,
+                Securable = context.Transactions[0].Name, // EUR
+                Type = context.Transactions[0].Type, // Tavaline ülekanne
+                Transaction = context.Transactions[0],
+                Description = "Esimene ülekanne"
+            });
 
             // Ülekanne Swed => LHV 50 EUR
             context.TransactionEntries.Add(new TransactionEntry
             {
+                TransactionId = "123456789003",
+                Time = context.Transactions[0].Time, // DateTime.Now.AddDays(-90)
+                OwningAccount = lhv,
+                OtherAccount = pohikonto,
+                Amount = 50,
+                Securable = context.Transactions[0].Name, // EUR
+                Type = context.Transactions[0].Type, // Tavaline ülekanne
+                Transaction = context.Transactions[0],
+                Description = "Esimene ülekanne"
+            });
+            /*context.TransactionEntries.Add(new TransactionEntry
+            {
                 TransactionId = "123456789001",
-                Time = DateTime.Now.AddDays(-90),
+                Time = trans.Time, // DateTime.Now.AddDays(-90)
                 OwningAccount = pohikonto,
                 OtherAccount = lhv,
                 Amount = 50,
-                Securable = context.Securables[0], // EUR
+                Securable = trans.Name, // EUR
                 Type = TransactionTypeEnum.Transfer, // Tavaline ülekanne
                 Transaction = context.Transactions[0],
                 Description = "Investeerimiseks"
             });
+            */
 
             // Swedis teenustasu
+            var trans = GetNext(transactions);
+
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492349",
-                Time = DateTime.Parse("2023-04-10 17:00:00"),
+                Time = trans.Time, //DateTime.Parse("2023-04-10 17:00:00"),
                 OwningAccount = pohikonto,
                 Amount = 0.40m,
-                Securable = context.Securables[0], // EUR
-                Type = TransactionTypeEnum.ServiceFee, // Tavaline ülekanne
-                Transaction = context.Transactions[0],
+                Securable = trans.Name, // EUR
+                Type = trans.Type, // 
+                Transaction = trans,
                 Description = "Teenustasu"
             });
 
+            trans = GetNext(transactions);
             // Ülekanne LHV tavakonto => LHV väärtpaberikonto
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "56634563465456",
-                Time = DateTime.Parse("2023-04-10 17:05:00"),
+                Time = trans.Time,
                 OwningAccount = lhv,
                 OtherAccount = aktsiadLhv,
-                Amount = 50,
-                Securable = context.Securables[0], // EUR
-                Type = TransactionTypeEnum.Transfer, // Tavaline ülekanne
-                Transaction = context.Transactions[0],
-                Description = "MSFT ostmiseks"
+                Amount = 10,
+                Securable = trans.Name, // Apple
+                Type = trans.Type,
+                Transaction = trans,
+                Description = "AAPL ülekanne"
             });
 
+            trans = GetNext(transactions);
             // Microsofti aktsia ostmine (eurod välja)
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "7142234234",
-                Time = DateTime.Parse("2023-04-10 17:07:00"),
+                Time = trans.Time,
                 OwningAccount = aktsiadLhv,
                 Amount = 45,
-                Securable = context.Securables[0], // EUR
-                Type = TransactionTypeEnum.Buy, // Tavaline ülekanne
-                Transaction = context.Transactions[0],
+                Securable = trans.Name, // EUR
+                Type = trans.Type, //
+                Transaction = trans,
                 Description = "Ostuorder NY388473"
             });
 
