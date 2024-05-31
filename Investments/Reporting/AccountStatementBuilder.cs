@@ -15,10 +15,10 @@ namespace Investments.Reporting
         {
             _account = account;
         }
-        public GetStartingBalance()
-        {
-            return;
-        }
+        //public GetStartingBalance()
+        //{
+        //    return;
+        //}
 
         public AccountStatement Build(DateTime from, DateTime to)
         {

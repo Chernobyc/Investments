@@ -259,13 +259,14 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492316",
-                Time = DateTime.Parse("2023-05-01 12:50:00"),
-                OwningAccount = lhv,
+                Time = trans.Time,
+                OwningAccount = pohikonto,
+                OtherAccount= aktsiadLhv,
                 Amount = 90,
-                Securable = context.Securables[0],
-                Type = TransactionTypeEnum.Sell,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Tavaline ülekanne"
+                Description = "Google aktsiade ülekanne"
             });
 
             //uued
@@ -274,11 +275,11 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492317",
-                Time = DateTime.Parse("2023-05-03 19:40:00"),
-                OwningAccount = lhv,
+                Time = trans.Time,
+                OwningAccount = pohikonto,
                 Amount = 99,
-                Securable = context.Securables[0],
-                Type = TransactionTypeEnum.Sell,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
                 Description = "Valuuta vahetus"
             });
@@ -288,14 +289,14 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492318",
-                Time = DateTime.Parse("2023-05-06 17:10:00"),
-                OwningAccount = lhv,
+                Time = trans.Time,
+                OwningAccount = pohikonto,
                 OtherAccount = aktsiadLhv,
                 Amount = 150,
-                Securable = context.Securables[2],
-                Type = TransactionTypeEnum.Transfer,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Aktsiade ülekanne"
+                Description = "MIcrosofti aktsiade ostmine"
             });
 
             trans = GetNext(transactions);
@@ -303,14 +304,14 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492319",
-                Time = DateTime.Parse("2023-05-08 12:15:00"),
-                OwningAccount = lhv,
-                OtherAccount = aktsiadLhv,
+                Time = trans.Time,
+                OwningAccount = aktsiadLhv,
+                OtherAccount = pohikonto,
                 Amount = 90,
-                Securable = context.Securables[3],
-                Type = TransactionTypeEnum.Buy,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Google aktsiade ostmine"
+                Description = "Apple aktsiade muumine"
             });
 
             trans = GetNext(transactions);
@@ -318,13 +319,13 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492320",
-                Time = DateTime.Parse("2023-05-10 17:40:00"),
-                OwningAccount = lhv,
+                Time = trans.Time,
+                OwningAccount = aktsiadLhv,
                 Amount = 40,
-                Securable = context.Securables[0],
-                Type = TransactionTypeEnum.ServiceFee,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Teenustasu"
+                Description = "Google aktsiade ulekanne"
             });
 
             trans = GetNext(transactions);
@@ -332,14 +333,14 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492321",
-                Time = DateTime.Parse("2023-05-13 13:20:00"),
-                OwningAccount = lhv,
-                OtherAccount = aktsiadLhv,
+                Time = trans.Time,
+                OwningAccount = pohikonto,
+                OtherAccount = lhv,
                 Amount = 120,
-                Securable = context.Securables[2],
-                Type = TransactionTypeEnum.Sell,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Apple aktsiade muumine"
+                Description = "Valuuta vahetus"
             });
 
             trans = GetNext(transactions);
@@ -347,14 +348,14 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492322",
-                Time = DateTime.Parse("2023-05-15 10:30:00"),
-                OwningAccount = lhv,
-                OtherAccount = pohikonto,
+                Time = trans.Time,
+                OwningAccount = pohikonto,
+                OtherAccount = aktsiadLhv,
                 Amount = 80,
-                Securable = context.Securables[1],
-                Type = TransactionTypeEnum.Transfer,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Tavaline ülekanne"
+                Description = "Microsofti ostmine"
             });
 
             trans = GetNext(transactions);
@@ -362,14 +363,14 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492323",
-                Time = DateTime.Parse("2023-05-18 12:50:00"),
-                OwningAccount = lhv,
+                Time = trans.Time,
+                OwningAccount = aktsiadLhv,
                 OtherAccount = pohikonto,
                 Amount = 90,
-                Securable = context.Securables[0],
-                Type = TransactionTypeEnum.Sell,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Tavaline ülekanne"
+                Description = "Apple muumine"
             });
 
             trans = GetNext(transactions);
@@ -377,14 +378,14 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492324",
-                Time = DateTime.Parse("2023-05-21 13:10:00"),
-                OwningAccount = lhv,
-                OtherAccount = aktsiadLhv,
+                Time = trans.Time,
+                OwningAccount = aktsiadLhv,
+                OtherAccount = lhv,
                 Amount = 129,
-                Securable = context.Securables[3],
-                Type = TransactionTypeEnum.Buy,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Google ostmine"
+                Description = "Google ulekanne"
             });
 
             trans = GetNext(transactions);
@@ -392,13 +393,13 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492325",
-                Time = DateTime.Parse("2023-05-24 15:50:00"),
-                OwningAccount = lhv,
+                Time = trans.Time,
+                OwningAccount = pohikonto,
                 Amount = 60,
-                Securable = context.Securables[0],
-                Type = TransactionTypeEnum.CurrencyExchange,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Aktsiade ülekanne"
+                Description = "Valuuta vahetus"
             });
 
             trans = GetNext(transactions);
@@ -406,12 +407,12 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492326",
-                Time = DateTime.Parse("2023-05-26 16:45:00"),
-                OwningAccount = lhv,
+                Time = trans.Time,
+                OwningAccount = pohikonto,
                 OtherAccount = aktsiadLhv,
                 Amount = 120,
-                Securable = context.Securables[1],
-                Type = TransactionTypeEnum.Sell,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
                 Description = "Microsoft aktsiade muumine"
             });
@@ -421,13 +422,14 @@ namespace Investments.Data
             context.TransactionEntries.Add(new TransactionEntry
             {
                 TransactionId = "234923492327",
-                Time = DateTime.Parse("2023-05-30 19:20:00"),
-                OwningAccount = lhv,
+                Time = trans.Time,
+                OwningAccount = pohikonto,
+                OtherAccount = aktsiadLhv,
                 Amount = 140,
-                Securable = context.Securables[1],
-                Type = TransactionTypeEnum.Buy,
+                Securable = trans.Name,
+                Type = trans.Type,
                 Transaction = trans,
-                Description = "Microsoft aktsiade ostmine"
+                Description = "Apple aktsiade muumine"
             });
 
             pohikonto.Entries.AddRange(context.TransactionEntries.Where(t => t.OwningAccount == pohikonto));

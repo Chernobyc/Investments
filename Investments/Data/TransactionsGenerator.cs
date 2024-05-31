@@ -50,7 +50,7 @@ namespace Investments.Data
             context.Transactions.Add(new Transaction { Name = context.Securables[3], Type = TransactionTypeEnum.Transfer, Time = DateTime.Parse("2023-04-25 13:45:00") });
             context.Transactions.Add(new Transaction { Name = context.Securables[0], Type = TransactionTypeEnum.CurrencyExchange, Time = DateTime.Parse("2023-05-05 08:30:00") });
 
-            context.Transactions.Add(new Transaction { Name = context.Securables[1], Type = TransactionTypeEnum.Buy, Time = DateTime.Parse("2023-05-15 15:10:00") });
+            context.Transactions.Add(new Transaction { Name = context.Securables[1], Type = TransactionTypeEnum.Sell, Time = DateTime.Parse("2023-05-15 15:10:00") });
             context.Transactions.Add(new Transaction { Name = context.Securables[2], Type = TransactionTypeEnum.Sell, Time = DateTime.Parse("2023-05-25 10:55:00") });
             context.Transactions.Add(new Transaction { Name = context.Securables[3], Type = TransactionTypeEnum.Transfer, Time = DateTime.Parse("2023-06-05 14:25:00") });
             context.Transactions.Add(new Transaction { Name = context.Securables[0], Type = TransactionTypeEnum.CurrencyExchange, Time = DateTime.Parse("2023-06-15 09:40:00") });
