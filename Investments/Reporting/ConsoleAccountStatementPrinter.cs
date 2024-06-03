@@ -27,7 +27,7 @@ namespace Investments.Reporting
             Console.WriteLine("From: " + _statement.From);
             Console.WriteLine("To: " + _statement.To);
             Console.WriteLine("Starting balance: " + _statement.StartingBalance);
-            Console.WriteLine("Entries: ");
+            Console.WriteLine("Entries: " + "\n");
         }
 
         private void PrintEntries()

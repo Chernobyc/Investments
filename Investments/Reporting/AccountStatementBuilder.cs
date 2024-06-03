@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,6 +22,11 @@ namespace Investments.Reporting
         //    return;
         //}
 
+        //private BalanceBuild()
+        //{
+
+        //}
+
         public AccountStatement Build(DateTime from, DateTime to)
         {
             var statement = new AccountStatement();
@@ -30,7 +37,14 @@ namespace Investments.Reporting
 
             // Leia konto algseis kuupäeva from jaoks
             // Найди исходный баланс счёта 
-            statement.StartingBalance = 1000; // приравнять к входящим на счет средствам (первому переводу)
+
+            // приравнять к входящим на счет средствам (первому переводу)
+            statement.StartingBalance = 0; //_account.Entries[0].Amount
+            //statement.StartingBalance = () =>
+            //{
+            //    decimal balance = List<AccountStatementEntry>[0] == null ? 0 : _account.Entries[0];
+            //    return balance;
+            //};
 
             statement.Entries.AddRange(GenerateEntries(from, to, statement.StartingBalance));
 
@@ -48,7 +62,7 @@ namespace Investments.Reporting
 
                 entry.OtherAccount = trans.OtherAccount;
 
-                //TimeSpan date = from.Subtract(now);
+                //TimeSpan date = from.Subtract(Now);
                 //entry.Time = Convert.ToDateTime(date);
                 //var date = from.ToString();
                 //entry.Time = ;
@@ -56,7 +70,21 @@ namespace Investments.Reporting
 
                 // Arvuta kontoseis peale tehingut
                 // Рассчитайте баланс счета после транзакции
-                entry.Balance = startingBalance - trans.Amount;
+
+                decimal tempBalance = entry.Balance == null ? startingBalance : 1000;
+
+                if (trans.OtherAccount == _account)
+                {
+                    entry.Balance = tempBalance + trans.Amount;
+                }
+                else if (trans.OwningAccount == _account)
+                {
+                    entry.Balance = tempBalance - trans.Amount;
+                }
+                //else
+                //{
+                //    entry.Balance = startingBalance;
+                //}
 
                 list.Add(entry);
             }

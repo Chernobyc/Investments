@@ -432,7 +432,7 @@ namespace Investments.Data
                 Description = "Apple aktsiade muumine"
             });
 
-            pohikonto.Entries.AddRange(context.TransactionEntries.Where(t => t.OwningAccount == pohikonto));
+            pohikonto.Entries.AddRange(context.TransactionEntries.Where(t => t.OwningAccount == pohikonto || t.OtherAccount == pohikonto));
             lhv.Entries.AddRange(context.TransactionEntries.Where(t => t.OwningAccount == lhv));
             aktsiadLhv.Entries.AddRange(context.TransactionEntries.Where(t => t.OwningAccount == aktsiadLhv));
         }
