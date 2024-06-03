@@ -27,3 +27,18 @@ C:\Users\opilane\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OO
 C:\Users\opilane\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net7.0\Investments.genruntimeconfig.cache
 C:\Users\opilane\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net7.0\ref\Investments.dll
 C:\Users\opilane\OneDrive - Tallinn Polytechnic School\Documents\source\repos\OOP 2. semestr\Investments\Investments\obj\Debug\net7.0\Investments.sourcelink.json
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\bin\Debug\net7.0\Investments.exe
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\bin\Debug\net7.0\Investments.deps.json
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\bin\Debug\net7.0\Investments.runtimeconfig.json
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\bin\Debug\net7.0\Investments.dll
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\bin\Debug\net7.0\Investments.pdb
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\Investments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\Investments.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\Investments.AssemblyInfo.cs
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\Investments.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\Investments.sourcelink.json
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\Investments.dll
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\refint\Investments.dll
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\Investments.pdb
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\Investments.genruntimeconfig.cache
+C:\Users\User\OneDrive - Tallinn Polytechnic School\Учебное\OOP\Investments\Investments\obj\Debug\net7.0\ref\Investments.dll

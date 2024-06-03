@@ -410,7 +410,7 @@ namespace Investments.Data
                 Time = trans.Time,
                 OwningAccount = pohikonto,
                 OtherAccount = aktsiadLhv,
-                Amount = 120,
+                Amount = 80,
                 Securable = trans.Name,
                 Type = trans.Type,
                 Transaction = trans,

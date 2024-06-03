@@ -54,37 +54,28 @@ namespace Investments.Reporting
         private List<AccountStatementEntry> GenerateEntries(DateTime from, DateTime to, decimal startingBalance)
         {
             var list = new List<AccountStatementEntry>();
+            decimal tempBalance = startingBalance;
 
-            foreach(var trans in _account.Entries)
+            foreach (var trans in _account.Entries)
             {
                 var entry = new AccountStatementEntry();
                 entry.TransactionId = trans.TransactionId;
-
+                entry.Time = trans.Time;
                 entry.OtherAccount = trans.OtherAccount;
-
-                //TimeSpan date = from.Subtract(Now);
-                //entry.Time = Convert.ToDateTime(date);
-                //var date = from.ToString();
-                //entry.Time = ;
-                //entry.Description =  ;
+                entry.Description = trans.Description;
 
                 // Arvuta kontoseis peale tehingut
                 // Рассчитайте баланс счета после транзакции
-
-                decimal tempBalance = entry.Balance == null ? startingBalance : 1000;
-
                 if (trans.OtherAccount == _account)
                 {
-                    entry.Balance = tempBalance + trans.Amount;
+                    tempBalance += trans.Amount;
                 }
                 else if (trans.OwningAccount == _account)
                 {
-                    entry.Balance = tempBalance - trans.Amount;
+                    tempBalance -= trans.Amount;
                 }
-                //else
-                //{
-                //    entry.Balance = startingBalance;
-                //}
+
+                entry.Balance = tempBalance;
 
                 list.Add(entry);
             }

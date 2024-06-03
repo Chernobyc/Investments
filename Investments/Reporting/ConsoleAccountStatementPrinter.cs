@@ -37,9 +37,7 @@ namespace Investments.Reporting
                 Console.WriteLine($"Transaction Id: {entry.TransactionId}");
                 Console.WriteLine($"Date of transaction: {entry.Time}");
                 Console.WriteLine($"Left balance: {entry.Balance}");
-                //...
-
-                Console.WriteLine(entry.Description);
+                Console.WriteLine($"Descritpion: {entry.Description}" + "\n");
                 
             }
         }

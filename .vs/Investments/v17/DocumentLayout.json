@@ -1,105 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\reporting\\accountstatementbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\accountstatementbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\data\\transactionentriesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\data\\transactionentriesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\transactionentriesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\reporting\\accountstatemententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\accountstatemententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\reporting\\accountstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\accountstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\reporting\\consoleaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\consoleaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\collections\\securableslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\collections\\securableslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\data\\exchangeratesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\exchangeratesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\data\\securablesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\securablesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\data\\bankaccountsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\bankaccountsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\collections\\institutionslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\collections\\institutionslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\data\\institutionsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\institutionsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\data\\transactionsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\transactionsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\securable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\securable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\aatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\aatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\aatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\reporting\\htmlaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\securable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\securable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\reporting\\htmlaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\htmlaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\transactionentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\reporting\\consoleaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\consoleaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\reporting\\accountstatementbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\accountstatementbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\reporting\\accountstatemententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\accountstatemententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\transactionentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\transactionentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\reporting\\accountstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\accountstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\data\\institutionsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\institutionsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\reporting\\iaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\data\\transactionsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\transactionsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\data\\securablesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\securablesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\data\\exchangeratesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\exchangeratesgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\reporting\\iaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\reporting\\iaccountstatementprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\transactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\collections\\securableslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\collections\\securableslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\transactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\transactiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\collections\\exchangerateslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\data\\bankaccountsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\data\\bankaccountsgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\collections\\exchangerateslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\collections\\exchangerateslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\opilane\\onedrive - tallinn polytechnic school\\documents\\source\\repos\\oop 2. semestr\\investments\\investments\\institution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\collections\\institutionslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\collections\\institutionslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|c:\\users\\user\\onedrive - tallinn polytechnic school\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\oop\\investments\\investments\\institution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C5034E3-3E75-4785-BC91-C084B76B51A0}|Investments\\Investments.csproj|solutionrelative:investments\\institution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,67 +110,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "AccountStatement.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\AccountStatement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\AccountStatement.cs",
               "RelativeDocumentMoniker": "Investments\\Reporting\\AccountStatement.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\AccountStatement.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\AccountStatement.cs",
               "RelativeToolTip": "Investments\\Reporting\\AccountStatement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TransactionEntriesGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\TransactionEntriesGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\TransactionEntriesGenerator.cs",
               "RelativeDocumentMoniker": "Investments\\Data\\TransactionEntriesGenerator.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\TransactionEntriesGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\TransactionEntriesGenerator.cs",
               "RelativeToolTip": "Investments\\Data\\TransactionEntriesGenerator.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCkAAAAeAAAA",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAmwJwBAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T09:58:47.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "InstitutionsGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\InstitutionsGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\InstitutionsGenerator.cs",
               "RelativeDocumentMoniker": "Investments\\Data\\InstitutionsGenerator.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\InstitutionsGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\InstitutionsGenerator.cs",
               "RelativeToolTip": "Investments\\Data\\InstitutionsGenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Program.cs",
               "RelativeDocumentMoniker": "Investments\\Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Program.cs",
               "RelativeToolTip": "Investments\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T09:58:47.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 12,
               "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Transaction.cs",
               "RelativeDocumentMoniker": "Investments\\Transaction.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Transaction.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Transaction.cs",
               "RelativeToolTip": "Investments\\Transaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,11 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "AATask.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\AATask.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\AATask.cs",
               "RelativeDocumentMoniker": "Investments\\AATask.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\AATask.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\AATask.cs",
               "RelativeToolTip": "Investments\\AATask.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,126 +189,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "TransactionsGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\TransactionsGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\TransactionsGenerator.cs",
               "RelativeDocumentMoniker": "Investments\\Data\\TransactionsGenerator.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\TransactionsGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\TransactionsGenerator.cs",
               "RelativeToolTip": "Investments\\Data\\TransactionsGenerator.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAwCsAAACmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "SecurablesGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\SecurablesGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\SecurablesGenerator.cs",
               "RelativeDocumentMoniker": "Investments\\Data\\SecurablesGenerator.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\SecurablesGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\SecurablesGenerator.cs",
               "RelativeToolTip": "Investments\\Data\\SecurablesGenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.697Z",
+              "WhenOpened": "2024-05-16T09:58:47.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HtmlAccountStatementPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\HtmlAccountStatementPrinter.cs",
+              "RelativeDocumentMoniker": "Investments\\Reporting\\HtmlAccountStatementPrinter.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\HtmlAccountStatementPrinter.cs",
+              "RelativeToolTip": "Investments\\Reporting\\HtmlAccountStatementPrinter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:58:47.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HtmlAccountStatementPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\HtmlAccountStatementPrinter.cs",
-              "RelativeDocumentMoniker": "Investments\\Reporting\\HtmlAccountStatementPrinter.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\HtmlAccountStatementPrinter.cs",
-              "RelativeToolTip": "Investments\\Reporting\\HtmlAccountStatementPrinter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AccountStatementBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\AccountStatementBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\AccountStatementBuilder.cs",
               "RelativeDocumentMoniker": "Investments\\Reporting\\AccountStatementBuilder.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\AccountStatementBuilder.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\AccountStatementBuilder.cs",
               "RelativeToolTip": "Investments\\Reporting\\AccountStatementBuilder.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwEsAAAAQAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAcwFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T09:58:47.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConsoleAccountStatementPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\ConsoleAccountStatementPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\ConsoleAccountStatementPrinter.cs",
               "RelativeDocumentMoniker": "Investments\\Reporting\\ConsoleAccountStatementPrinter.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\ConsoleAccountStatementPrinter.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\ConsoleAccountStatementPrinter.cs",
               "RelativeToolTip": "Investments\\Reporting\\ConsoleAccountStatementPrinter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T09:58:47.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 9,
               "Title": "TransactionEntry.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\TransactionEntry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\TransactionEntry.cs",
               "RelativeDocumentMoniker": "Investments\\TransactionEntry.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\TransactionEntry.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\TransactionEntry.cs",
               "RelativeToolTip": "Investments\\TransactionEntry.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.692Z"
+              "WhenOpened": "2024-05-16T09:58:47.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AccountStatementEntry.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\AccountStatementEntry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\AccountStatementEntry.cs",
               "RelativeDocumentMoniker": "Investments\\Reporting\\AccountStatementEntry.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\AccountStatementEntry.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\AccountStatementEntry.cs",
               "RelativeToolTip": "Investments\\Reporting\\AccountStatementEntry.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T09:58:47.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Investments\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\DataContext.cs",
               "RelativeToolTip": "Investments\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ExchangeRatesGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\ExchangeRatesGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\ExchangeRatesGenerator.cs",
               "RelativeDocumentMoniker": "Investments\\Data\\ExchangeRatesGenerator.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\ExchangeRatesGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\ExchangeRatesGenerator.cs",
               "RelativeToolTip": "Investments\\Data\\ExchangeRatesGenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 17,
               "Title": "IAccountStatementPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\IAccountStatementPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\IAccountStatementPrinter.cs",
               "RelativeDocumentMoniker": "Investments\\Reporting\\IAccountStatementPrinter.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Reporting\\IAccountStatementPrinter.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Reporting\\IAccountStatementPrinter.cs",
               "RelativeToolTip": "Investments\\Reporting\\IAccountStatementPrinter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -318,37 +314,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "SecurablesList.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Collections\\SecurablesList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Collections\\SecurablesList.cs",
               "RelativeDocumentMoniker": "Investments\\Collections\\SecurablesList.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Collections\\SecurablesList.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Collections\\SecurablesList.cs",
               "RelativeToolTip": "Investments\\Collections\\SecurablesList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Account.cs",
               "RelativeDocumentMoniker": "Investments\\Account.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Account.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Account.cs",
               "RelativeToolTip": "Investments\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T09:58:47.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "TransactionTypeEnum.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\TransactionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\TransactionTypeEnum.cs",
               "RelativeDocumentMoniker": "Investments\\TransactionTypeEnum.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\TransactionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\TransactionTypeEnum.cs",
               "RelativeToolTip": "Investments\\TransactionTypeEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,24 +351,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "BankAccountsGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\BankAccountsGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\BankAccountsGenerator.cs",
               "RelativeDocumentMoniker": "Investments\\Data\\BankAccountsGenerator.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Data\\BankAccountsGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Data\\BankAccountsGenerator.cs",
               "RelativeToolTip": "Investments\\Data\\BankAccountsGenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "ExchangeRatesList.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Collections\\ExchangeRatesList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Collections\\ExchangeRatesList.cs",
               "RelativeDocumentMoniker": "Investments\\Collections\\ExchangeRatesList.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Collections\\ExchangeRatesList.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Collections\\ExchangeRatesList.cs",
               "RelativeToolTip": "Investments\\Collections\\ExchangeRatesList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,37 +375,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "InstitutionsList.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Collections\\InstitutionsList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Collections\\InstitutionsList.cs",
               "RelativeDocumentMoniker": "Investments\\Collections\\InstitutionsList.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Collections\\InstitutionsList.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Collections\\InstitutionsList.cs",
               "RelativeToolTip": "Investments\\Collections\\InstitutionsList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "ExchangeRate.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\ExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\ExchangeRate.cs",
               "RelativeDocumentMoniker": "Investments\\ExchangeRate.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\ExchangeRate.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\ExchangeRate.cs",
               "RelativeToolTip": "Investments\\ExchangeRate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:58:47.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:58:47.667Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Institution.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Institution.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Institution.cs",
               "RelativeDocumentMoniker": "Investments\\Institution.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Institution.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Institution.cs",
               "RelativeToolTip": "Investments\\Institution.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +411,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "Securable.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Securable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Securable.cs",
               "RelativeDocumentMoniker": "Investments\\Securable.cs",
-              "ToolTip": "C:\\Users\\opilane\\OneDrive - Tallinn Polytechnic School\\Documents\\source\\repos\\OOP 2. semestr\\Investments\\Investments\\Securable.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Tallinn Polytechnic School\\\u0423\u0447\u0435\u0431\u043D\u043E\u0435\\OOP\\Investments\\Investments\\Securable.cs",
               "RelativeToolTip": "Investments\\Securable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
