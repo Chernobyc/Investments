@@ -19,19 +19,17 @@ namespace Investments
             TransactionEntriesGenerator.GenerateTransactionEntries(context);
 
             // Lisage sellele kontole piisavalt kandeid
-            // Добавьте достаточно записей в этот аккаунт
             var account = context.Accounts[0];
-            //System.Collections.Generic.List<TransactionEntry> entries = context.Accounts[0].Entries;
             var statementBuilder = new AccountStatementBuilder(account);
-            var statement = statementBuilder.Build(DateTime.Parse("01.01.2022"), DateTime.Now); //statementBuilder.Build(DateTime.Now.AddDays(-30), DateTime.Now)
+            var statement = statementBuilder.Build(DateTime.Parse("01.01.2023"), DateTime.Now);
             IAccountStatementPrinter printer;
 
+            printer = new ConsoleAccountStatementPrinter(statement);
+            printer.Print();
 
             printer = new HtmlAccountStatementPrinter(statement, "statement.html");
             printer.Print();
 
-            printer = new ConsoleAccountStatementPrinter(statement);
-            printer.Print();
         }
     }
 }
